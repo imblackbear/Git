@@ -1,9 +1,10 @@
 h1{
-    color: purple;
+    color: skyblue;
     text-align: center;
 }
 
 p{
     text-align: center;
+    border: 1px solid black;
 }
 
