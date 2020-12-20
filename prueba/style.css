@@ -7,8 +7,15 @@ p{
     text-align: center;
     border: 1px solid black;
 }
+ 
+ .head{
+    padding: 10px;
+    background-color: lightpink;
+    font-weight: bold;
+ }
 
 .foot{
-    padding: 10px;
+    
     background-color: darkgrey;
+    padding: 10px;
 }
