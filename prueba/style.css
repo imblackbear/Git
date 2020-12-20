@@ -7,4 +7,9 @@ p{
     text-align: center;
     border: 1px solid black;
 }
-
+ 
+ .head{
+    padding: 10px;
+    background-color: lightpink;
+    font-weight: bold;
+ }
