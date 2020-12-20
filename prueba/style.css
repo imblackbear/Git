@@ -8,3 +8,7 @@ p{
     border: 1px solid black;
 }
 
+.foot{
+    padding: 10px;
+    background-color: darkgrey;
+}
