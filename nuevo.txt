@@ -1,1 +1,7 @@
 prueba de que estoy en otra rama
+
+#Prueba de cherry pick
+
+Este sera el primer commit para hacer uso de cherry pick y traerlos esa información al master desde la rama cherry
+
+Segundo commit del cherry pick
