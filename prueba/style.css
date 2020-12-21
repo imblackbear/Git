@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: slategray;
+    background-color: #222222;
 }
 
 h1{
@@ -24,7 +24,7 @@ p{
 
 .head{
     padding: 10px;
-    background-color: lightpink;
+    background-color: #1b4079;
     font-weight: bold;
 }
 
@@ -35,7 +35,7 @@ p{
 
 .foot{
     height: 200px;
-    background-color: darkgrey;
+    background-color: #354f52;
     padding: 10px;
 }
 
@@ -46,16 +46,16 @@ p{
 
 .b1{
     
-    background-color: lightslategray;
+    background-color: #95a3b3;
 }
 
 .b2{
     
-    background-color: palegoldenrod;
+    background-color: #4b4e6d;
 }
 
 .b3{
-    background-color: plum;
+    background-color: #84dcc6;
 }
 
 .b1, .b2, .b3{
